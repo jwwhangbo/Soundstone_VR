@@ -1,2 +1,2 @@
-# Unity_Scripts
-Compilation of scripts I wrote while writing code in unity
+# Soundstone VR
+Summary : A music creation software developed in Unity 🎵
